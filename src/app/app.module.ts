@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
 import { AuthComponent } from './auth/auth.component';
 
+
 @NgModule({
   imports:      [ BrowserModule, FormsModule ],
   declarations: [ AppComponent, HelloComponent, AuthComponent ],
